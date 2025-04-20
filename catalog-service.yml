@@ -7,5 +7,5 @@ spring:
       connection-timeout: 2000 #ms
       maximum-pool-size: 5
 polar:
-  greeting: "Welcome to the catalog from the config server"
+  greeting: "Welcome to the catalog from the config server !"
 
